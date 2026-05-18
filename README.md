@@ -393,7 +393,7 @@ Every image you upload is saved locally (URL + thumbnail) so you never upload th
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18+)
-- A [Muapi.ai](https://muapi.ai) API key
+- A [Muapi.ai access key](https://muapi.ai/access-keys). Copy the generated key value into the app; do not enter the key name or label.
 
 ### Setup
 
